@@ -16,3 +16,7 @@ pip install pycryptodome
 ```
 
 これでPyCryptodomeがインストールされます。
+
+## 使い方
+
+近日中に更新します

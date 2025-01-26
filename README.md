@@ -16,6 +16,7 @@ Thank you for using this software. To use this software, you will need the follo
 
 - Python
 - PyCryptodome
+
 Option
 - ひみつの鍵.csv
 

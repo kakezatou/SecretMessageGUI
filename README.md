@@ -1,22 +1,17 @@
-# 秘密のメッセージGUI
+# SecretMessageGUI
+Thank you for using this software. To use this software, you will need the following:
 
-このソフトをご利用いただきありがとうございます。このソフトを使用するためには、以下のものが必要です。
-
-## 必要なもの
+## Requirements
 - Python
 - PyCryptodome
-- ひみつの鍵.csv
+- ひみつの鍵.csv  // Secret key .csv file
+## How to install PyCryptodome
 
-## PyCryptodomeのダウンロード方法
-
-PyCryptodomeをインストールするには、以下のコマンドを使用してください。
-
+To install PyCryptodome, use the following command:
 ```sh
-pip install pycryptodome
+pip install pycryptodome.
 ```
+This will install PyCryptodome.
 
-これでPyCryptodomeがインストールされます。
-
-## 使い方
-
-近日中に更新します
+### Usage
+Will be updated soon.

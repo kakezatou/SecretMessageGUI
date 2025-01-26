@@ -40,3 +40,20 @@ This will install PyCryptodome.
 
 近日中に公開します
 Will be updated soon.
+
+
+
+## Tasks
+
+- [ ] Remove functions and variables with Japanese names
+- [ ] Change the file extension for the keys
+- [ ] Organize functions
+- [ ] Change Tkinter positioning to use `pack()` and `grid()`
+- [ ] Implement multi-language support
+- [ ] Modify the steganography encryption section
+- [ ] Support file encryption
+- [ ] Utilize multiple encryption keys
+- [ ] Port to Android app
+- [x] Translate GitHub page into English
+- [ ] Add usage instructions to README
+- [ ] Enable password protection for keys

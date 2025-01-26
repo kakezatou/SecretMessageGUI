@@ -4,7 +4,10 @@ Thank you for using this software. To use this software, you will need the follo
 ## Requirements
 - Python
 - PyCryptodome
-- ひみつの鍵.csv  // Secret key .csv file
+
+option 
+
+- ひみつの鍵.csv(Secret key .csv file)
 ## How to install PyCryptodome
 
 To install PyCryptodome, use the following command:

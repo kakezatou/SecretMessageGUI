@@ -20,10 +20,9 @@ Option
 - ひみつの鍵.csv
 
 ## PyCryptodomeのダウンロード方法
-
+### How to Download PyCryptodome
 PyCryptodomeをインストールするには、以下のコマンドを使用してください。
 
-## How to Download PyCryptodome
 
 To install PyCryptodome, use the following command:
 
@@ -36,13 +35,7 @@ pip install pycryptodome
 This will install PyCryptodome.
 
 ## 使い方
+### Usage
 
-近日中に更新します
-
-## Usage
-
+近日中に公開します
 Will be updated soon.
-
----
-
-I hope this translation helps! If you need any more assistance, feel free to ask.

@@ -1,9 +1,4 @@
 # SecretMessageGUI
-
-このソフトをご利用いただきありがとうございます。このソフトを使用するためには、以下のものが必要です。
-
-Thank you for using this software. To use this software, you will need the following:
-
 ## 必要なもの
 
 - Python
